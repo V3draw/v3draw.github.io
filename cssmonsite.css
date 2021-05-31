@@ -1,0 +1,83 @@
+body
+{
+	background-color: black;
+	color:white;
+}
+header
+{
+	background-image: url("fond/portraitblue.png");
+	background-attachment: fixed;
+	background-position: left;
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	width: 500px;
+	padding: 100px;
+	margin: auto;
+	flex-wrap: wrap;
+}
+footer
+{
+	font-size: 10px;
+}
+h1
+{
+	text-align: left;
+	font-family: ITC Avant Garde Gothic Pro;
+}
+h2
+{
+	text-align: center;
+	font-style: italic;
+	font-family: ITC Avant Garde Gothic Pro;
+	font-size: 25px;
+}
+p
+{
+	text-align: left;
+	font-family: Helvetica Neue LT Pro;
+	font-weight: normal;
+}
+nav
+{
+	font-family: ITC Avant Garde Gothic Pro;
+	font-size: 20px;
+	display: flex;
+	justify-content: space-around;
+	margin: 15px;
+	padding: 15px;
+	border: 5px #509EE2 outset;
+}
+a
+{
+	color: #509EE2;
+	text-decoration: none;
+}
+em
+{
+	font-family: ITC Avant Garde Gothic Pro;
+	font-size: 20px;
+}
+.intro, .CVpart, .contact
+{
+	background-image: url("fond/portraitblueop.png");
+	background-attachment: fixed;
+	background-position: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 15px;
+	margin: 200px 500px;
+	min-width: 300px;
+}
+.Graph, .Draw
+{
+	margin: 200px 150px;
+}
+.fond
+{
+	background-image: url("fond/crow.png");
+	background-attachment: scroll;
+	background-position : right;
+	background-repeat: no-repeat;
+}
