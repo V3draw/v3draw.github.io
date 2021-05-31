@@ -81,3 +81,70 @@ em
 	background-position : right;
 	background-repeat: no-repeat;
 }
+.barlvl
+{
+	height: 3px;
+	width: 100%;
+	background: black;
+	display: block;
+	box-shadow: 0px 0px 5px #509EE2;
+}
+
+
+.bargraph
+{
+	height: 3px;
+	width: 70%;
+	background: #509EE2;
+	float: left;
+}
+
+.cesi
+{
+	height: 3px;
+	width: 20%;
+	background: #509EE2;
+	float: left;
+}
+.barauto
+{
+	height: 3px;
+	width: 30%;
+	background: #509EE2;
+	float: left;
+}
+.barCC
+{
+	height: 3px;
+	width: 75%;
+	background: #509EE2;
+	float: left;
+}
+.barweb
+{
+	height: 3px;
+	width: 45%;
+	background: #509EE2;
+	float: left;
+}
+.barJS
+{
+	height: 3px;
+	width: 10%;
+	background: #509EE2;
+	float: left;
+}
+.barcsharp
+{
+	height: 3px;
+	width: 15%;
+	background: #509EE2;
+	float: left;
+}
+.barpython
+{
+	height: 3px;
+	width: 25%;
+	background: #509EE2;
+	float: left;
+}
