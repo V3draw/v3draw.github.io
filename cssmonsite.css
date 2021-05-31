@@ -70,6 +70,12 @@ em
 	margin: 200px 500px;
 	min-width: 300px;
 }
+.CV
+{
+	text-align: left;
+	font-family: Helvetica Neue LT Pro;
+	font-weight: normal;
+}
 .Graph, .Draw
 {
 	margin: 200px 150px;
